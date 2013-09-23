@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kramdown (1.2.0)
+    pdfkit (0.5.4)
+    wkhtmltopdf-binary (0.9.9.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kramdown
+  pdfkit
+  wkhtmltopdf-binary
